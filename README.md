@@ -1,7 +1,7 @@
-GitCycle
+GitFlowCycle
 =======
 
-GitCycle Adds the 'git cycle' Git extension to provide high-level repository operations and integrates project management API ( Pivotal Tracker ) and adds release cylce functionality.
+GitFlowCycle Adds the 'git cycle' Git extension to provide high-level repository operations and integrates project management API ( Pivotal Tracker ) and adds release cylce functionality.
 for [DataSift's HubFlow branching model](http://datasift.github.com/gitflow/), which is based on [Vincent Driessen’s original blog post](http://nvie.com/posts/a-successful-git-branching-model/).
 
 ![](http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png)
